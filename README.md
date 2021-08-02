@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning evrrything
 - 💞️ I’m looking to collaborate with other Developer
 ### Connect with me:
-
-[<img align='left' alt='www.instagram.com' src="Vhttps://image.flaticon.com/icons/png/512/174/174855.png" width="22px" height="100" border="10"/>]
+<img align='left' alt='instagram.com' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" width="22px" height="100" border="10"/>
 
 
 
